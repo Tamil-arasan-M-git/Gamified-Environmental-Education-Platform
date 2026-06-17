@@ -5,10 +5,8 @@ SIH Project for Environmental Education using Gamification
 ## Problem Statement
 Gamified Environmental Education Platform for Schools and Colleges
 
-## Team Members
-- Member 1
-- Member 2
-- Member 3
+## Team Member
+- Tamilarasan M 
 
 ## Features
 - Eco Challenges
