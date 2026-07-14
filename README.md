@@ -156,49 +156,6 @@ Gamified-Environmental-Education-Platform/
 └── package.json
 ```
 
----
-
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/Tamil-arasan-M-git/Gamified-Environmental-Education-Platform.git
-```
-
-Navigate to the project directory
-
-```bash
-cd Gamified-Environmental-Education-Platform
-```
-
-Install frontend dependencies
-
-```bash
-cd frontend
-npm install
-```
-
-Install backend dependencies
-
-```bash
-cd ../backend
-npm install
-```
-
-Run the frontend
-
-```bash
-npm start
-```
-
-Run the backend
-
-```bash
-npm run dev
-```
-
----
 
 ## Future Enhancements
 
