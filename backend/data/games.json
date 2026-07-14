@@ -1,0 +1,754 @@
+[
+  {
+    "_id": "65a6a47676ae09643f4e504c",
+    "title": {
+      "english": "Image Quiz",
+      "tamil": "பட வினாடி",
+      "hindi": "चित्र प्रश्नोत्तरी"
+    },
+    "gameType": "image-quiz",
+    "category": "trees",
+    "difficulty": "easy",
+    "xpReward": 30,
+    "coinReward": 15,
+    "instructions": {
+      "english": "Look at the image and choose the correct answer!",
+      "tamil": "படத்தைப் பார்த்து சரியான பதிலைத் தேர்ந்தெடுங்கள்!",
+      "hindi": "चित्र देखें और सही उत्तर चुनें!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "Which tree gives us oxygen?",
+            "options": [
+              "Oak",
+              "Cactus",
+              "Seaweed",
+              "All plants"
+            ],
+            "correctAnswer": 3,
+            "hint": "Think about what all green plants produce!"
+          },
+          {
+            "imageUrl": null,
+            "questionText": "What part of the tree absorbs water?",
+            "options": [
+              "Leaves",
+              "Roots",
+              "Bark",
+              "Flowers"
+            ],
+            "correctAnswer": 1,
+            "hint": "It grows underground"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "எந்த மரம் நமக்கு ஆக்ஸிஜன் தருகிறது?",
+            "options": [
+              "கருவாலி",
+              "கற்றாழை",
+              "கடற்பாசி",
+              "அனைத்து தாவரங்களும்"
+            ],
+            "correctAnswer": 3,
+            "hint": "பச்சை தாவரங்கள் எல்லாம்"
+          }
+        ]
+      },
+      "hindi": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "कौन सा पेड़ हमें ऑक्सीजन देता है?",
+            "options": [
+              "ओक",
+              "कैक्टस",
+              "समुद्री शैवाल",
+              "सभी पौधे"
+            ],
+            "correctAnswer": 3,
+            "hint": "सभी हरे पौधे"
+          }
+        ]
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.453Z"
+  },
+  {
+    "_id": "22d5bc75b124852886d701f3",
+    "title": {
+      "english": "Waste Sorting",
+      "tamil": "கழிவு பிரிப்பு",
+      "hindi": "कचरा छँटाई"
+    },
+    "gameType": "drag-drop",
+    "category": "recycling",
+    "difficulty": "easy",
+    "xpReward": 35,
+    "coinReward": 20,
+    "instructions": {
+      "english": "Drag each item to the correct recycling bin!",
+      "tamil": "ஒவ்வொரு பொருளையும் சரியான மறுசுழற்சி தொட்டியில் இழுக்கவும்!",
+      "hindi": "प्रत्येक वस्तु को सही रीसाइक्लिंग बिन में खींचें!"
+    },
+    "content": {
+      "english": {
+        "dragItems": [
+          {
+            "id": 1,
+            "label": "Plastic Bottle",
+            "category": "plastic"
+          },
+          {
+            "id": 2,
+            "label": "Newspaper",
+            "category": "paper"
+          },
+          {
+            "id": 3,
+            "label": "Glass Jar",
+            "category": "glass"
+          },
+          {
+            "id": 4,
+            "label": "Apple Core",
+            "category": "organic"
+          }
+        ]
+      },
+      "tamil": {
+        "dragItems": []
+      },
+      "hindi": {
+        "dragItems": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.487Z"
+  },
+  {
+    "_id": "e7b294955f92133d234a18dd",
+    "title": {
+      "english": "Memory Match",
+      "tamil": "நினைவக பொருத்தம்",
+      "hindi": "मेमोरी मैच"
+    },
+    "gameType": "memory-card",
+    "category": "animals",
+    "difficulty": "easy",
+    "xpReward": 40,
+    "coinReward": 20,
+    "instructions": {
+      "english": "Match the animals with their homes!",
+      "tamil": "விலங்குகளை அவற்றின் வீடுகளுடன் பொருத்துங்கள்!",
+      "hindi": "जानवरों को उनके घरों से मिलाएं!"
+    },
+    "content": {
+      "english": {
+        "cards": [
+          {
+            "id": 1,
+            "label": "🐅 Tiger",
+            "matchId": 1
+          },
+          {
+            "id": 2,
+            "label": "🏔️ Forest",
+            "matchId": 1
+          },
+          {
+            "id": 3,
+            "label": "🐬 Dolphin",
+            "matchId": 2
+          },
+          {
+            "id": 4,
+            "label": "🌊 Ocean",
+            "matchId": 2
+          }
+        ]
+      },
+      "tamil": {
+        "cards": []
+      },
+      "hindi": {
+        "cards": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.488Z"
+  },
+  {
+    "_id": "182b1a1c90b8b54d39a8c4d1",
+    "title": {
+      "english": "Word Puzzle",
+      "tamil": "சொல் புதிர்",
+      "hindi": "शब्द पहेली"
+    },
+    "gameType": "word-puzzle",
+    "category": "trees",
+    "difficulty": "easy",
+    "xpReward": 30,
+    "coinReward": 15,
+    "instructions": {
+      "english": "Unscramble the letters to make an environment word!",
+      "tamil": "எழுத்துக்களை வரிசைப்படுத்தி சுற்றுச்சூழல் சொல்லை உருவாக்குங்கள்!",
+      "hindi": "अक्षरों को व्यवस्थित करके पर्यावरण शब्द बनाएं!"
+    },
+    "content": {
+      "english": {
+        "puzzle": {
+          "word": "TREE",
+          "scrambled": "EETR",
+          "hint": "It gives us oxygen and shade"
+        }
+      },
+      "tamil": {
+        "puzzle": {
+          "word": "மரம்",
+          "scrambled": "மமர",
+          "hint": "இது நமக்கு ஆக்ஸிஜன் தருகிறது"
+        }
+      },
+      "hindi": {
+        "puzzle": {
+          "word": "पेड़",
+          "scrambled": "ड़पे",
+          "hint": "यह हमें ऑक्सीजन देता है"
+        }
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.490Z"
+  },
+  {
+    "_id": "e4e655811ad81e972ddf13c7",
+    "title": {
+      "english": "Hangman - Environment",
+      "tamil": "தூக்குமேடை - சுற்றுச்சூழல்",
+      "hindi": "हैंगमैन - पर्यावरण"
+    },
+    "gameType": "word-puzzle",
+    "category": "earth",
+    "difficulty": "intermediate",
+    "xpReward": 45,
+    "coinReward": 25,
+    "instructions": {
+      "english": "Guess the environment word before the man is hanged!",
+      "tamil": "மனிதன் தூக்கிலிடப்படுவதற்கு முன் சுற்றுச்சூழல் சொல்லை யூகிக்கவும்!",
+      "hindi": "आदमी को फांसी लगने से पहले पर्यावरण शब्द का अनुमान लगाएं!"
+    },
+    "content": {
+      "english": {
+        "puzzle": {
+          "word": "ECOSYSTEM",
+          "scrambled": "E_C_S_S_T_M",
+          "hint": "A community of living organisms"
+        }
+      },
+      "tamil": {
+        "puzzle": {
+          "word": "சூழலமைப்பு",
+          "scrambled": "சூ_ல_ம_ப்_ு",
+          "hint": "உயிரினங்களின் சமூகம்"
+        }
+      },
+      "hindi": {
+        "puzzle": {
+          "word": "पारिस्थितिकी",
+          "scrambled": "पा_ि_्_ि_ि_ी",
+          "hint": "जीवों का समुदाय"
+        }
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.491Z"
+  },
+  {
+    "_id": "5597786b0acb68200e33f204",
+    "title": {
+      "english": "Find the Difference",
+      "tamil": "வேறுபாட்டைக் கண்டறியவும்",
+      "hindi": "अंतर खोजें"
+    },
+    "gameType": "image-quiz",
+    "category": "water",
+    "difficulty": "medium",
+    "xpReward": 35,
+    "coinReward": 20,
+    "instructions": {
+      "english": "Find what is different in the environment pictures!",
+      "tamil": "சுற்றுச்சூழல் படங்களில் வேறுபாட்டைக் கண்டறியவும்!",
+      "hindi": "पर्यावरण चित्रों में अंतर खोजें!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "Which activity harms the environment?",
+            "options": [
+              "Planting trees",
+              "Recycling",
+              "Dumping waste",
+              "Saving water"
+            ],
+            "correctAnswer": 2,
+            "hint": "One of these pollutes the Earth"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.493Z"
+  },
+  {
+    "_id": "ff3c0b8f4fb69cf8f9166f47",
+    "title": {
+      "english": "Quick Quiz",
+      "tamil": "விரைவு வினாடி",
+      "hindi": "त्वरित प्रश्नोत्तरी"
+    },
+    "gameType": "image-quiz",
+    "category": "energy",
+    "difficulty": "hard",
+    "xpReward": 50,
+    "coinReward": 30,
+    "instructions": {
+      "english": "Answer quickly! You have limited time!",
+      "tamil": "விரைவாக பதிலளிக்கவும்! உங்களுக்கு குறைந்த நேரம் உள்ளது!",
+      "hindi": "जल्दी उत्तर दें! आपके पास सीमित समय है!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "Which is a renewable energy source?",
+            "options": [
+              "Coal",
+              "Solar",
+              "Petrol",
+              "Diesel"
+            ],
+            "correctAnswer": 1,
+            "hint": "It comes from the sun"
+          },
+          {
+            "imageUrl": null,
+            "questionText": "What does recycling save?",
+            "options": [
+              "Money",
+              "Time",
+              "Resources",
+              "Space"
+            ],
+            "correctAnswer": 2,
+            "hint": "It helps reduce waste in landfills"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.495Z"
+  },
+  {
+    "_id": "5b25a57b5f5664f8bc0c7a9a",
+    "title": {
+      "english": "Who Am I? - Animals",
+      "tamil": "நான் யார்? - விலங்குகள்",
+      "hindi": "मैं कौन हूँ? - जानवर"
+    },
+    "gameType": "image-quiz",
+    "category": "animals",
+    "difficulty": "easy",
+    "xpReward": 30,
+    "coinReward": 15,
+    "instructions": {
+      "english": "Read the clue and guess the animal!",
+      "tamil": "துப்பைப் படித்து விலங்கை யூகிக்கவும்!",
+      "hindi": "सुराग पढ़ें और जानवर का अनुमान लगाएं!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "I am the largest animal on Earth. I live in the ocean. Who am I?",
+            "options": [
+              "Elephant",
+              "Blue Whale",
+              "Giraffe",
+              "Shark"
+            ],
+            "correctAnswer": 1,
+            "hint": "I breathe through a blowhole"
+          },
+          {
+            "imageUrl": null,
+            "questionText": "I am the king of the jungle. Who am I?",
+            "options": [
+              "Tiger",
+              "Lion",
+              "Bear",
+              "Wolf"
+            ],
+            "correctAnswer": 1,
+            "hint": "I have a golden mane"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.497Z"
+  },
+  {
+    "_id": "9f88dfd93e97add3f4ed2f9f",
+    "title": {
+      "english": "Treasure Hunt",
+      "tamil": "புதையல் வேட்டை",
+      "hindi": "खजाने की खोज"
+    },
+    "gameType": "drag-drop",
+    "category": "earth",
+    "difficulty": "hard",
+    "xpReward": 60,
+    "coinReward": 35,
+    "instructions": {
+      "english": "Find the hidden environmental treasures!",
+      "tamil": "மறைக்கப்பட்ட சுற்றுச்சூழல் புதையல்களைக் கண்டறியவும்!",
+      "hindi": "छिपे हुए पर्यावरणीय खजाने खोजें!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "Match the natural resource to its source",
+            "options": [
+              "Water - River",
+              "Wood - Tree",
+              "Coal - Mine"
+            ],
+            "correctAnswer": 0,
+            "hint": "Think about where things come from"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.498Z"
+  },
+  {
+    "_id": "d74b125e1a2be64382faf46b",
+    "title": {
+      "english": "Eco Runner",
+      "tamil": "சூழல் ஓட்டம்",
+      "hindi": "इको रनर"
+    },
+    "gameType": "true-false",
+    "category": "recycling",
+    "difficulty": "medium",
+    "xpReward": 45,
+    "coinReward": 25,
+    "instructions": {
+      "english": "Run through the eco challenges by answering True or False!",
+      "tamil": "சரி அல்லது தவறு என்று பதிலளிப்பதன் மூலம் சூழல் சவால்களை கடந்து ஓடுங்கள்!",
+      "hindi": "सही या गलत का उत्तर देकर पर्यावरण चुनौतियों से दौड़ें!"
+    },
+    "content": {
+      "english": {
+        "trueFalse": [
+          {
+            "statement": "Plastic bottles can be recycled",
+            "answer": true,
+            "explanation": "Plastic can be melted and reused!"
+          },
+          {
+            "statement": "Paper comes from rocks",
+            "answer": false,
+            "explanation": "Paper comes from trees!"
+          },
+          {
+            "statement": "Solar energy is renewable",
+            "answer": true,
+            "explanation": "The sun gives us unlimited energy!"
+          }
+        ]
+      },
+      "tamil": {
+        "trueFalse": []
+      },
+      "hindi": {
+        "trueFalse": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.500Z"
+  },
+  {
+    "_id": "94b24c32beae5c4f48483ad4",
+    "title": {
+      "english": "Maze Adventure",
+      "tamil": "மேஜ் சாகசம்",
+      "hindi": "भूलभुलैया साहसिक"
+    },
+    "gameType": "image-quiz",
+    "category": "forests",
+    "difficulty": "hard",
+    "xpReward": 55,
+    "coinReward": 30,
+    "instructions": {
+      "english": "Navigate through the environmental maze!",
+      "tamil": "சுற்றுச்சூழல் மேஜ் வழியாக செல்லவும்!",
+      "hindi": "पर्यावरणीय भूलभुलैया से गुज़रें!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "Which path leads to a cleaner environment?",
+            "options": [
+              "Burn waste",
+              "Recycle waste",
+              "Bury waste",
+              "Dump in river"
+            ],
+            "correctAnswer": 1,
+            "hint": "Choose the most eco-friendly option"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.502Z"
+  },
+  {
+    "_id": "6896712ff23f93c5217cfa52",
+    "title": {
+      "english": "Recycle Challenge",
+      "tamil": "மறுசுழற்சி சவால்",
+      "hindi": "रीसाइक्लिंग चुनौती"
+    },
+    "gameType": "drag-drop",
+    "category": "recycling",
+    "difficulty": "medium",
+    "xpReward": 40,
+    "coinReward": 25,
+    "instructions": {
+      "english": "Sort all items into the correct recycling bins before time runs out!",
+      "tamil": "நேரம் முடிவதற்குள் அனைத்து பொருட்களையும் சரியான மறுசுழற்சி தொட்டிகளில் வரிசைப்படுத்தவும்!",
+      "hindi": "समय समाप्त होने से पहले सभी वस्तुओं को सही रीसाइक्लिंग बिन में छाँटें!"
+    },
+    "content": {
+      "english": {
+        "dragItems": [
+          {
+            "id": 1,
+            "label": "Plastic Bag",
+            "category": "plastic"
+          },
+          {
+            "id": 2,
+            "label": "Glass Bottle",
+            "category": "glass"
+          },
+          {
+            "id": 3,
+            "label": "Cardboard Box",
+            "category": "paper"
+          },
+          {
+            "id": 4,
+            "label": "Banana Peel",
+            "category": "organic"
+          }
+        ]
+      },
+      "tamil": {
+        "dragItems": []
+      },
+      "hindi": {
+        "dragItems": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.504Z"
+  },
+  {
+    "_id": "df002e6a6f26d52611ee0592",
+    "title": {
+      "english": "Tree Growing Simulator",
+      "tamil": "மரம் வளர்ப்பு உருவகப்படுத்தி",
+      "hindi": "पेड़ उगाने का सिम्युलेटर"
+    },
+    "gameType": "true-false",
+    "category": "trees",
+    "difficulty": "easy",
+    "xpReward": 35,
+    "coinReward": 20,
+    "instructions": {
+      "english": "Learn how to grow a tree by answering correctly!",
+      "tamil": "சரியாக பதிலளிப்பதன் மூலம் ஒரு மரத்தை எவ்வாறு வளர்ப்பது என்பதை அறிக!",
+      "hindi": "सही उत्तर देकर पेड़ उगाना सीखें!"
+    },
+    "content": {
+      "english": {
+        "trueFalse": [
+          {
+            "statement": "Trees need sunlight to grow",
+            "answer": true,
+            "explanation": "Sunlight helps trees make food through photosynthesis!"
+          },
+          {
+            "statement": "Trees grow faster in deserts",
+            "answer": false,
+            "explanation": "Trees need water to grow, which is scarce in deserts!"
+          }
+        ]
+      },
+      "tamil": {
+        "trueFalse": []
+      },
+      "hindi": {
+        "trueFalse": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.507Z"
+  },
+  {
+    "_id": "7061826808d8d3c5cc419531",
+    "title": {
+      "english": "Ocean Cleanup Mission",
+      "tamil": "கடல் சுத்திகரிப்பு பணி",
+      "hindi": "महासागर सफाई मिशन"
+    },
+    "gameType": "drag-drop",
+    "category": "water",
+    "difficulty": "medium",
+    "xpReward": 50,
+    "coinReward": 30,
+    "instructions": {
+      "english": "Clean up the ocean by removing waste items!",
+      "tamil": "கழிவு பொருட்களை அகற்றி கடலை சுத்தம் செய்யுங்கள்!",
+      "hindi": "कचरा हटाकर महासागर को साफ करें!"
+    },
+    "content": {
+      "english": {
+        "questions": [
+          {
+            "imageUrl": null,
+            "questionText": "What hurts ocean animals the most?",
+            "options": [
+              "Plastic bags",
+              "Sand",
+              "Rocks",
+              "Seaweed"
+            ],
+            "correctAnswer": 0,
+            "hint": "It looks like jellyfish to turtles"
+          }
+        ]
+      },
+      "tamil": {
+        "questions": []
+      },
+      "hindi": {
+        "questions": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.509Z"
+  },
+  {
+    "_id": "dd334bc2eac2e4fbb8b19120",
+    "title": {
+      "english": "Jigsaw Puzzle - Earth",
+      "tamil": "பசை புதிர் - பூமி",
+      "hindi": "जिगसॉ पहेली - पृथ्वी"
+    },
+    "gameType": "memory-card",
+    "category": "earth",
+    "difficulty": "medium",
+    "xpReward": 45,
+    "coinReward": 25,
+    "instructions": {
+      "english": "Match the pieces to complete the Earth picture!",
+      "tamil": "பூமி படத்தை முடிக்க துண்டுகளை பொருத்தவும்!",
+      "hindi": "पृथ्वी की तस्वीर पूरी करने के लिए टुकड़ों को मिलाएं!"
+    },
+    "content": {
+      "english": {
+        "cards": [
+          {
+            "id": 1,
+            "label": "🌍 Earth",
+            "matchId": 1
+          },
+          {
+            "id": 2,
+            "label": "🟢 Continents",
+            "matchId": 1
+          },
+          {
+            "id": 3,
+            "label": "💧 Oceans",
+            "matchId": 2
+          },
+          {
+            "id": 4,
+            "label": "🌊 Blue Water",
+            "matchId": 2
+          }
+        ]
+      },
+      "tamil": {
+        "cards": []
+      },
+      "hindi": {
+        "cards": []
+      }
+    },
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.511Z"
+  }
+]

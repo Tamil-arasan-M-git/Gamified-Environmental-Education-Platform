@@ -1,0 +1,84 @@
+[
+  {
+    "_id": "fccc78be73238a01d5585f9b",
+    "lessonId": "lesson1",
+    "question": {
+      "english": {
+        "text": "What do trees give us to breathe?",
+        "options": [
+          "Water",
+          "Oxygen",
+          "Food",
+          "Light"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Trees produce oxygen through photosynthesis!"
+      },
+      "tamil": {
+        "text": "மரங்கள் நமக்கு சுவாசிக்க எதைத் தருகின்றன?",
+        "options": [
+          "தண்ணீர்",
+          "ஆக்ஸிஜன்",
+          "உணவு",
+          "ஒளி"
+        ],
+        "correctAnswer": 1,
+        "explanation": "மரங்கள் ஒளிச்சேர்க்கை மூலம் ஆக்ஸிஜனை உற்பத்தி செய்கின்றன!"
+      },
+      "hindi": {
+        "text": "पेड़ हमें सांस लेने के लिए क्या देते हैं?",
+        "options": [
+          "पानी",
+          "ऑक्सीजन",
+          "भोजन",
+          "रोशनी"
+        ],
+        "correctAnswer": 1,
+        "explanation": "पेड़ प्रकाश संश्लेषण के माध्यम से ऑक्सीजन का उत्पादन करते हैं!"
+      }
+    },
+    "questionType": "multiple-choice",
+    "difficulty": "easy",
+    "isActive": true,
+    "xpReward": 10,
+    "createdAt": "2026-07-14T17:04:32.517Z"
+  },
+  {
+    "_id": "a10bbde55fcda0c1d7ba6006",
+    "lessonId": "lesson1",
+    "question": {
+      "english": {
+        "text": "Trees produce oxygen. Is this true?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Yes! Trees take in CO2 and release oxygen."
+      },
+      "tamil": {
+        "text": "மரங்கள் ஆக்ஸிஜனை உற்பத்தி செய்கின்றன. இது உண்மையா?",
+        "options": [
+          "உண்மை",
+          "தவறு"
+        ],
+        "correctAnswer": 0,
+        "explanation": "ஆம்! மரங்கள் CO2 ஐ எடுத்து ஆக்ஸிஜனை வெளியிடுகின்றன."
+      },
+      "hindi": {
+        "text": "पेड़ ऑक्सीजन का उत्पादन करते हैं। क्या यह सच है?",
+        "options": [
+          "सच",
+          "झूठ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "हाँ! पेड़ CO2 लेते हैं और ऑक्सीजन छोड़ते हैं।"
+      }
+    },
+    "questionType": "true-false",
+    "difficulty": "easy",
+    "isActive": true,
+    "xpReward": 10,
+    "createdAt": "2026-07-14T17:04:32.517Z"
+  }
+]

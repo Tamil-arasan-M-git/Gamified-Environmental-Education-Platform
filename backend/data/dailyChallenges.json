@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "c9c5a4fde6efaf043fa9b59f",
+    "title": {
+      "english": "Today's Eco Challenge",
+      "tamil": "இன்றைய சுற்றுச்சூழல் சவால்",
+      "hindi": "आज की पर्यावरण चुनौती"
+    },
+    "description": {
+      "english": "Complete today's challenge and earn bonus rewards!",
+      "tamil": "இன்றைய சவாலை முடித்து போனஸ் வெகுமதிகளைப் பெறுங்கள்!",
+      "hindi": "आज की चुनौती पूरी करें और बोनस पुरस्कार अर्जित करें!"
+    },
+    "challengeType": "quiz",
+    "category": "energy",
+    "xpReward": 50,
+    "coinReward": 30,
+    "date": "2026-07-14",
+    "isActive": true,
+    "createdAt": "2026-07-14T17:04:32.963Z"
+  }
+]

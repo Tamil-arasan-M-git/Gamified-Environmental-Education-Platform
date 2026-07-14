@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "admin001",
+    "name": "Admin",
+    "email": "admin@ecolearn.com",
+    "password": "$2a$10$3iZB4BOm5KLzIo6fO4.2ie6tlpK0xbqrU2YJATDkIDc/qajIyODyO",
+    "age": 25,
+    "role": "admin",
+    "level": 5,
+    "xp": 1000,
+    "coins": 500,
+    "stars": 10,
+    "streak": 5,
+    "language": "english",
+    "theme": "light",
+    "avatar": "default-avatar.png",
+    "completedLessons": [],
+    "achievements": [
+      "First Steps",
+      "Eco Champion"
+    ],
+    "badges": [
+      {
+        "name": "Gold Badge",
+        "earnedAt": "2026-07-14T17:04:32.232Z"
+      }
+    ],
+    "totalTimeSpent": 120,
+    "lastLoginDate": "2026-07-14T17:04:32.835Z",
+    "createdAt": "2026-07-14T17:04:32.232Z",
+    "updatedAt": "2026-07-14T17:04:32.836Z"
+  },
+  {
+    "_id": "kid001",
+    "name": "Eco Kid",
+    "email": "kid@ecolearn.com",
+    "password": "$2a$10$3iZB4BOm5KLzIo6fO4.2ieyCcybq0SABR43q2IGuIozNFXoiA/Ese",
+    "age": 8,
+    "role": "child",
+    "level": 2,
+    "xp": 250,
+    "coins": 120,
+    "stars": 5,
+    "streak": 3,
+    "language": "english",
+    "theme": "light",
+    "avatar": "default-avatar.png",
+    "completedLessons": [],
+    "achievements": [
+      "First Steps"
+    ],
+    "badges": [
+      {
+        "name": "Beginner Badge",
+        "earnedAt": "2026-07-14T17:04:32.446Z"
+      }
+    ],
+    "totalTimeSpent": 45,
+    "lastLoginDate": "2026-07-14T17:04:32.446Z",
+    "createdAt": "2026-07-14T17:04:32.446Z"
+  }
+]
